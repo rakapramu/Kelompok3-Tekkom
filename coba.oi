@@ -1,5 +1,1 @@
-FUN coba(huruf) -> huruf + "ope"
-
-FOR i = 0 TO 5 THEN 
-    CETAK(coba("l"))
-END
+CETAK("Test")
